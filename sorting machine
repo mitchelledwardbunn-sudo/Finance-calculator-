@@ -1,0 +1,4 @@
+npm create vite@latest my-finance-app -- --template react
+cd my-finance-app
+npm install
+npm install lucide-react
